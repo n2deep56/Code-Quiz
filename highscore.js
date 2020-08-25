@@ -1,4 +1,4 @@
-//display elements
+//display element
 var userFirst = document.querySelector("#firstPlace");
 var userSecond = document.querySelector("#secondPlace");
 var userThird = document.querySelector("#thirdPlace");
